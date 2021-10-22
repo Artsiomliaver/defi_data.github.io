@@ -1,2 +1,1 @@
-# defi_data.github.io
-defi_data frontend
+This will be the Defi_stats site
